@@ -1,0 +1,45 @@
+#sDATA{
+	border: 1px solid #DFDFDF;
+	background-color: #F9F9F9;
+	width: 100%;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	font-family: Arial,"Bitstream Vera Sans",Helvetica,Verdana,sans-serif;
+	color: black;
+
+}
+
+#sDATA:hover {
+	opacity: 1;
+
+}
+
+#sDATA td {
+	border-top-color: white;
+	border-bottom: 1px solid #DFDFDF;
+	color: black;
+	opacity: 1;
+	font-size: 12px;
+	padding: 4px 7px 2px;
+	vertical-align: top;
+
+}
+
+#sDATA td:hover {
+	font-size: 12px;
+	padding: 4px 7px 2px;
+	vertical-align: top;
+	opacity: 1;
+	color:red;
+
+}
+
+#link:hover{
+	color:powderblue;
+}
+
+#map{
+	height: 1000px;
+	width: 1000px;
+}
