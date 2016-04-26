@@ -1,1 +1,1 @@
-Top Spots with map// no markers. 
+Top Spots with map and markers! (yes.) 
